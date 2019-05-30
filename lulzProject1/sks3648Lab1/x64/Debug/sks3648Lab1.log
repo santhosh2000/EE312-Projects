@@ -1,0 +1,6 @@
+﻿  header.c
+  main.cpp
+c:\users\santh\source\repos\sks3648lab1\sks3648lab1\main.cpp(33): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Program1.cpp
+  Generating Code...
+  sks3648Lab1.vcxproj -> C:\Users\santh\source\repos\sks3648Lab1\x64\Debug\sks3648Lab1.exe
