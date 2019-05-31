@@ -1,0 +1,14 @@
+﻿  main.cpp
+  Project2.cpp
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\santh\source\repos\sks3648lab2\sks3648lab2\project2.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  sks3648Lab2.vcxproj -> C:\Users\santh\source\repos\sks3648Lab2\Debug\sks3648Lab2.exe
