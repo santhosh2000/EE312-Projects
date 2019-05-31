@@ -1,0 +1,16 @@
+Inventory Bottles 100000
+Inventory Rattles 750000
+Inventory Diapers 50000
+
+Purchase Craig Bottles 4
+Purchase Craig Diapers 20
+Purchase Craig Diapers 100
+Purchase Batman Diapers 200
+Purchase Wertan Bottles 150
+Purchase Nilstein Rattles 50
+Purchase Wonderman Diapers -5000000000
+Purchase Wartman Rattles 50
+Purchase Batman Diapers 50
+
+Summarize
+Quit
