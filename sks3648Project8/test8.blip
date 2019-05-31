@@ -1,0 +1,12 @@
+var x 342
+text "output x -- " output x text \n
+set x + x 25
+text "after increment, output x -- " output x text \n // prints 367
+text "output ~ x -- " output ~ x text \n
+text "Hello World\n"
+text "output + 42 + 10 6 -- "
+output + 42 + 10 6 // prints 58
+text \n
+text "Hello Citizens of the United States\n"
+text "Suicide causes so much stress to college students worldwide\n"
+text "Don't do it\n"

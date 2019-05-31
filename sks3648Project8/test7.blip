@@ -1,0 +1,28 @@
+text "output 43 -- "
+output 43 // prints 43
+text \n
+
+text "output + 40 32 -- "
+output + 40 32 // prints 72
+text \n
+
+text "output + 42 + 10 6 -- "
+output + 42 + 10 6 // prints 58
+text \n
+
+text "output * 5 + 3 3 -- " // prints 30
+output * 5 + 3 3
+text \n
+
+text "output + * 5 3 + 5 5 -- " // prints 25
+output + * 5 3 + 5 5 // prints 25
+text \n
+
+text "output - 0 3 -- "
+output - 0 3
+text \n
+
+text "Hello Citizens of the United States\n"
+text "Suicide causes so much stress to college students worldwide\n"
+text "Don't do it\n"
+
